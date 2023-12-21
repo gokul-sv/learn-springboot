@@ -1,1 +1,1 @@
-# learn sping, springboot, JPA, and Hibernate
+# Learn sping, springboot, JPA, and Hibernate
